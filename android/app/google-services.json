@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188224299249",
+    "project_id": "rickandmortyodev-aa60f",
+    "storage_bucket": "rickandmortyodev-aa60f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188224299249:android:ea77698e85d80368224950",
+        "android_client_info": {
+          "package_name": "com.example.odev_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-076jkUKR0rzKjq_rgXw4zJeMkhbGWjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
